@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\bin\Debug\net8.0-windows\ViewReport.exe
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\bin\Debug\net8.0-windows\ViewReport.deps.json
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\bin\Debug\net8.0-windows\ViewReport.runtimeconfig.json
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\bin\Debug\net8.0-windows\ViewReport.dll
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\bin\Debug\net8.0-windows\ViewReport.pdb
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\Xem_báo_cáo.Form1.resources
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.dll
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\refint\ViewReport.dll
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.pdb
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ViewReport.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HomeworkRP\Xem báo cáo\obj\Debug\net8.0-windows\ref\ViewReport.dll

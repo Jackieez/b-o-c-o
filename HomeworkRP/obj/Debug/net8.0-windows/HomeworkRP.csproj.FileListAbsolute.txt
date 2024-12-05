@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\bin\Debug\net8.0-windows\HomeworkRP.exe
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\bin\Debug\net8.0-windows\HomeworkRP.deps.json
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\bin\Debug\net8.0-windows\HomeworkRP.runtimeconfig.json
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\bin\Debug\net8.0-windows\HomeworkRP.dll
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\bin\Debug\net8.0-windows\HomeworkRP.pdb
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.Form1.resources
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.dll
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\refint\HomeworkRP.dll
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.pdb
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\HomeworkRP.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HomeworkRP\HomeworkRP\obj\Debug\net8.0-windows\ref\HomeworkRP.dll
